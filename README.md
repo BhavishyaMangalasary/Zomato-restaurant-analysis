@@ -214,9 +214,9 @@ Premium ₹500+: Only 5.7%
 Market dominated by affordable to mid-range pricing. Premium is niche.
 
 **Recommendations:**
-✅ **For Restaurants:** Target ₹100-300 to access 60% of market
-✅ **For Platforms:** Optimize discovery for mid-range segment
-✅ **For Investors:** Volume opportunity in ₹100-300 range
+ * **For Restaurants:** Target ₹100-300 to access 60% of market
+ * **For Platforms:** Optimize discovery for mid-range segment
+ * **For Investors:** Volume opportunity in ₹100-300 range
 
 ---
 
