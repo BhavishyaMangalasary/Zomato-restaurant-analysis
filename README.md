@@ -54,11 +54,21 @@ The analysis reveals actionable insights for restaurant owners, food delivery pl
 ```
 zomato-restaurant-analysis/
 |
-├── enhanced_zomato_dataset_clean.csv
+├── README.MD
 |
 ├── images/
-|    ├── 
+|    ├── Rating_analysis.png
+|    ├── Price_analysis.png
+|    ├── Category_analysis.png
+|    ├── Delivery_vs_Dining.png
+|    ├── Price_vs_Rating.png
+|    ├── Cuisine_analysis.png
+|    ├── Geographic_analysis.png
+|    ├── Restaurant_analysis.png
+|    ├── Value_segmentation.png
+|    ├──Bestseller_patterns.png
 |
+└── restaurant.ipynb
 ```
 
 ## Technologies Used
