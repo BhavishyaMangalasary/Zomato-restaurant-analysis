@@ -51,14 +51,15 @@ The analysis reveals actionable insights for restaurant owners, food delivery pl
   26. Is_Expensive              Binary flag for prices above city’s average.
 
 ## Project Structure
-
+```
 zomato-restaurant-analysis/
 |
 ├── enhanced_zomato_dataset_clean.csv
 |
 ├── images/
 |    ├── 
-|   
+|
+```
 
 ## Technologies Used
 
@@ -76,3 +77,78 @@ zomato-restaurant-analysis/
 - Correlation analysis
 - Segmentation analysis
 - Distribution analysis
+
+## Analysis Sections
+
+The project is structured into 12 comprehensive sections:
+
+### Section 1: Data Foundation
+- Load and explore dataset
+- Data quality checks
+- Missing value analysis
+- Data cleaning and preparation
+
+### Section 2: Rating Analysis
+- Distribution of dining, delivery, and average ratings
+- Statistical measures (mean, median, mode, std)
+- Skewness analysis
+- Outlier detection
+
+### Section 3: Price Analysis
+- Price distribution and percentiles
+- Skewness identification
+- Price range segmentation
+- Outlier analysis
+
+### Section 4: Categorical Breakdown
+- Top cities by item count
+- Most common cuisines
+- Bestseller vs regular item distribution
+
+### Section 5: Dining vs Delivery Comparison
+- Rating correlation analysis
+- Service quality gaps
+- Statistical significance testing
+- Restaurant-specific performance
+
+### Section 6: Price-Rating Relationship
+- Correlation analysis
+- Scatter plot visualization
+- Price range performance
+- Value assessment
+
+### Section 7: Cuisine Deep Dive
+- Top-rated cuisines (with minimum vote filter)
+- Most expensive cuisines
+- Bestseller ratios by cuisine
+- Cuisine characteristics
+
+### Section 8: Geographic Analysis
+- Top-rated cities
+- Most expensive cities
+- Restaurant density by location
+- City-level price-quality analysis
+
+### Section 9: Restaurant Performance
+- Top restaurants by rating
+- Menu size optimization
+- Bestseller concentration
+- Restaurant strategies
+
+### Section 10: Value Segmentation
+- 4-quadrant analysis (Premium, Great Value, Overpriced, Budget)
+- Median-based segmentation
+- Segment characteristics
+- Value identification
+
+### Section 11: Bestseller Pattern Analysis
+- Characteristic comparison (ratings, prices, votes)
+- Statistical significance testing
+- Success factor identification
+- Pattern recognition
+
+### Section 12: Executive Summary
+- Key findings synthesis
+- Business recommendations
+- Strategic insights
+- Actionable takeaways
